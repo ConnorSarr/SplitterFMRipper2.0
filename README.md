@@ -1,5 +1,5 @@
 # SplitterFMRipper2.0
-Python program to rip stems from splitter.fm, such that the stems can be imported into whatever DAW you prefer (redone because the last one was messy)
+Python program to rip stems from [splitter.fm](https://splitter.fm), such that the stems can be imported into whatever DAW you prefer (redone because the last one was messy)
 
 ## Installation
 - ```pip install -r requirements.txt```
